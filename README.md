@@ -1,2 +1,2 @@
 # gitpractice
-just practicing
+practice makes perfect
